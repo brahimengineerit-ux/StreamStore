@@ -1,0 +1,12 @@
+# Exclude virtual environments
+venv/
+env/
+.venv/
+
+# Exclude compiled Python files
+__pycache__/
+*.pyc
+
+# Exclude IDE settings
+.idea/
+.DS_Store
